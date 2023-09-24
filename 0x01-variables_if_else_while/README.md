@@ -1,1 +1,1 @@
-rints the alphabet in lowercase, and then in uppercase, followed by a new line
+program that prints _putchar, followed by a new line
