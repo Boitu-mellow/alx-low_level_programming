@@ -13,8 +13,8 @@ int main(void)
 		putchar(n + '0');
 		if (n < 9)
 		{
-			putchar(11);
-			putchar(24);
+			putchar(33);
+			putchar(16);
 		}
 		n++;
 	}
